@@ -7,10 +7,9 @@ Team 13:
 
 [http://youtu.be/rB9BAEHvI_M](http://youtu.be/rB9BAEHvI_M)
 
-Directories:
+Directory Contents:
 	doc:
 		- Presentation slides
 		- Quiz questions
-		
 	src:
 		- Example progroms 
