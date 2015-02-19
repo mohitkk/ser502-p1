@@ -5,11 +5,11 @@ Team 13:
 	Mohit Kumar
 	Rebecca Goveia
 
-[http://youtu.be/rB9BAEHvI_M](http://youtu.be/rB9BAEHvI_M)
+Video: [http://youtu.be/rB9BAEHvI_M](http://youtu.be/rB9BAEHvI_M)
 
 Directory Contents:
 	doc:
-		- Presentation slides
-		- Quiz questions
+	* Presentation slides
+	* Quiz questions
 	src:
-		- Example progroms 
+	* Example progroms 
