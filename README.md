@@ -1,16 +1,17 @@
-SER 502 Project 1
+# SER 502 Project 1 #
 
-Team 13:
-	Christopher Mar
-	Mohit Kumar
-	Rebecca Goveia
+## Team 13:
+- Christopher Mar
+- Mohit Kumar
+- Rebecca Goveia
 
-Video: [http://youtu.be/rB9BAEHvI_M](http://youtu.be/rB9BAEHvI_M)
 
-Directory Contents:
-doc:
+
+### Video: [http://youtu.be/rB9BAEHvI_M](http://youtu.be/rB9BAEHvI_M)
+
+### Directory Contents
+#### doc:
 * Presentation slides
 * Quiz questions
-
-src:
+#### src:
 * Example progroms
