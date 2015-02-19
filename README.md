@@ -8,8 +8,9 @@ Team 13:
 Video: [http://youtu.be/rB9BAEHvI_M](http://youtu.be/rB9BAEHvI_M)
 
 Directory Contents:
-	doc:
-	* Presentation slides
-	* Quiz questions
-	src:
-	* Example progroms 
+doc:
+* Presentation slides
+* Quiz questions
+
+src:
+* Example progroms
