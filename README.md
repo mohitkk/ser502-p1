@@ -14,4 +14,4 @@
 * Presentation slides
 * Quiz questions
 #### src:
-* Example progroms
+* Example programs
